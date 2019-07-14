@@ -1,3 +1,4 @@
+import B.{Evaluator, False, IfElse, True}
 
 object Main extends App {
   println(s"True -> ${Evaluator.evalOneStep(True)}")

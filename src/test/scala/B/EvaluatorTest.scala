@@ -1,3 +1,5 @@
+package B
+
 import org.scalatest.{Matchers, WordSpec}
 
 class EvaluatorTest extends WordSpec with Matchers {
